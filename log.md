@@ -1,11 +1,10 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: September 24, 2025 
+##### (I know I have only 98 days only but thought counts so its still 100 ;)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress**: Back End Development and APIs. Lesson sttarted. First lesson : Managing Packages with NPM.
+**Thoughts:** Started with first lesson.
 
 **Link to work:** [Calculator App](http://www.example.com)
 
