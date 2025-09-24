@@ -4,9 +4,9 @@
 ##### (I know I have only 98 days only but thought counts so its still 100 ;)
 
 **Today's Progress**: Back End Development and APIs. Lesson sttarted. First lesson : Managing Packages with NPM.
-**Thoughts:** Started with first lesson.
+**Thoughts:** Started with first lesson.Its about NPM packages
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** https://www.freecodecamp.org/learn/back-end-development-and-apis/
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
@@ -15,7 +15,7 @@
 
 **Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: https://www.freecodecamp.org/learn/back-end-development-and-apis/
 
 
 ### Day 1: June 27, Monday
