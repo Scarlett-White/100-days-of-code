@@ -8,22 +8,22 @@
 
 **Link to work:** https://www.freecodecamp.org/learn/back-end-development-and-apis/
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: September 27, 2025
+##### (Didn't get a time to code)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**:
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**:
 
 **Link(s) to work**: https://www.freecodecamp.org/learn/back-end-development-and-apis/
 
 
-### Day 1: June 27, Monday
+### Day 3: September 28, 2025
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: 
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** : Just remebered how far i came from just a thought to doing IT and today I have an OOD lab exam. Felt nostligical with "YAD-engliesh version"
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link(s) to work**: 
+1.
+2.
