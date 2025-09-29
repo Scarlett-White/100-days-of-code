@@ -20,9 +20,9 @@
 
 ### Day 3: September 28, 2025
 
-**Today's Progress**: 
+**Today's Progress**: Started my first Java netbeans project this year. It wasn't bad. Learned constructors, and three main OOP concepts[Encapsulation, Inheritence & polymophism: method overloading and overiding]
 
-**Thoughts** : Just remebered how far i came from just a thought to doing IT and today I have an OOD lab exam. Felt nostligical with "YAD-engliesh version"
+**Thoughts** : Just remebered how far i came from just a thought to doing IT and today I have an OOD lab exam. Felt nostligical with "poison(YAD)-engliesh version"
 
 **Link(s) to work**: 
 1.
