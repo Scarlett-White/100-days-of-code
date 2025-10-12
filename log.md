@@ -9,7 +9,7 @@
 **Link to work:** https://www.freecodecamp.org/learn/back-end-development-and-apis/
 
 ### Day 2: September 27, 2025
-##### (Didn't get a time to code)
+##### (was busy)
 
 **Today's Progress**:
 
