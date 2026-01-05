@@ -24,11 +24,12 @@
 
 **Thoughts** : Just remebered how far i came from just a thought to doing IT and today I have an OOD lab exam. Felt nostligical with "poison(YAD)-engliesh version"
 
-**Link(s) to work**: 
-1.
-2.
 
-### Happy New Year Folks 2026
-### Day 4: January 5th, 2026
+### Happy 2026 New Year Folks 🎉🤗
 
-**Today's Progress**: Yesterday I coded using Eclipse IDE a java programe using maven. Today I created a Library mgt system using maven.
+### Day 4: January 4th, 2026
+**Today's Progress**: I coded using Eclipse IDE a java programe with maven. A practise test for tomorrows Lab OOD.
+
+### Day 5: January 5th, 2026
+
+**Today's Progress**: Today I created a Library mgt system using maven.
