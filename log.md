@@ -27,3 +27,8 @@
 **Link(s) to work**: 
 1.
 2.
+
+### Happy New Year Folks 2026
+### Day 4: January 5th, 2026
+
+**Today's Progress**: Yesterday I coded using Eclipse IDE a java programe using maven. Today I created a Library mgt system using maven.
